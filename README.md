@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, I'm Cameron Buchanan
 
+Full-Stack developer focused on gameplay systems, procedural environments, and simulation mechanics.
 <!--
 **cambuc/cambuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
