@@ -1,21 +1,15 @@
-## Hi! I'm Cameron Buchanan
-### Game Developer and Software Engineering Student
-I've been coding and making games for around a decade now. I'm currently working on **Arcadian** - a Unity wilderness survival game.
+# Cameron Buchanan
 
-I primarily work with .NET but I'm also experienced using JavaScript/TypeScript, Python, Java, SQL, and Angular/React.
+I’m a software engineer interested in building practical systems across full-stack applications, data, and game development. I’ve worked with modern web stacks, .NET backends, and cloud data tools, and I like projects that involve both engineering and problem-solving at a systems level.
 
-You can contact me at camcarbuc@gmail.com
-<!--
-**cambuc/cambuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Outside of coursework and internships, I build desktop apps and games - recently a music player in Python, a .NET-based skill tracker, and a survival game in Unity.
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C#, Python, JavaScript/TypeScript, Java, SQL  
+Angular, React, .NET, Unity  
+Snowflake, Power BI  
+
+## Contact
+
+camcarbuc@gmail.com
