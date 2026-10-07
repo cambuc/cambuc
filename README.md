@@ -1,13 +1,17 @@
-# Cameron Carter
+# Hi, I'm Cameron 👋
 
-I’m a software engineer interested in building practical systems across full-stack applications, data, and game development. I’ve worked with modern web stacks, .NET backends, AI agents, and cloud data tools, and I like projects that involve both engineering and problem-solving at a systems level.
+Computer Science student at Southern New Hampshire University (B.S. expected April 2027), based in Rocklin, CA. I've completed software engineering internships at Tri Counties Bank and Kinetik, working across the stack: Angular, React and TypeScript front ends, .NET web APIs, and SQL Server and Snowflake data work.
+
+## Projects
+
+- **[Production Par](https://github.com/cambuc/production-par)**: a React and TypeScript web app that turns a movement report into a filled par worksheet and production prep list. [Live demo](https://production-par.camcarbuc.workers.dev/)
+- **[Arcadian](https://github.com/cambuc/arcadian)**: a wilderness survival game demo built solo in Unity and C#, with procedural terrain, dynamic seasons, and crafting and inventory systems.
+- **[Concert and Convo Emailer](https://github.com/cambuc/sdsu-concert-convo)**: a Python SMTP mail-merge tool with dry-run and staged-rollout modes, built with an AI coding agent.
 
 ## Tech
 
-C#, Python, JavaScript/TypeScript, Java, SQL  
-Angular, React, .NET, Unity  
-Snowflake, Power BI  
+JavaScript · TypeScript · C# · Java · Python · SQL · Angular · React · .NET · SQL Server · Snowflake · Power BI · Unity
 
 ## Contact
 
-camcarbuc@gmail.com
+I'm looking for junior developer roles. Reach me on [LinkedIn](https://www.linkedin.com/in/cameron-carter-53477a3b1/) or at camcarbuc@gmail.com.
