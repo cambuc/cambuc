@@ -1,5 +1,3 @@
-# Hi, I'm Cameron 👋
-
 Computer Science student at Southern New Hampshire University (B.S. expected April 2027). I've completed software engineering internships at Tri Counties Bank and Kinetik, working across the stack: Angular, React and TypeScript front ends, .NET web APIs, and SQL Server and Snowflake data work.
 
 ## Projects
